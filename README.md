@@ -72,11 +72,11 @@ AI Engineer | Full-Stack Developer | ML & Generative AI
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=vidhikajain10&show_icons=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vidhikajain10)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=vidhikajain10&layout=compact)
 
 ---
 
